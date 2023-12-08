@@ -39,4 +39,3 @@ dot_data = export_graphviz(
 )
 
 graph = graphviz.Source(dot_data)
-
